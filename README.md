@@ -1,6 +1,6 @@
 # Instacart-Market-Basket-Analysis
 
-**Kaggle competiton(Data Source):** https://www.kaggle.com/c/instacart-market-basket-analysis
+**Kaggle competition(Data Source):** https://www.kaggle.com/c/instacart-market-basket-analysis
  
 ### **Introduction:**
   Instacart, a grocery ordering and delivery app that allows customers to select products on their app or website and a personal shopper handpicks those products by in-store shopping and delivers the order. In this Kaggle Competition, Instacart made their anonymized data available for Machine Learning practitioners with an aim for best Machine Learning models to analyse customer reorder patterns and predict which products can a customer reorder based on their previous shopping data.
@@ -12,9 +12,14 @@
 ### **Performance metric:** 
   Mean F1-score is the performance metric as per Kaggle competition but considering real world scenario f1-score on ‘1=will reorder’ is the performance metric on which models should be evaluated in particular. Further, recall of ‘will reorder’ can be observed.
   
+  
+  
 ***Go through 'Abstract.pdf' for detailed explanation of problem formulation, references and solving approach.***  
+
 ***Go through Kaggle Standings.pdf for kaggle scores of each model I built. Names of models in Kaggle Standings.pdf are self explanatory.***
+
 ***Hyper-parameter tuning for all Machine learning models I built was done using only around 20% of data because of the limited computational capacity I have. If done using higher amount of data much better results can be achieved.***
-***Further, concerned about the name of the competetion, features based on 'Market Basket Analysis' can be developed and that might improve the f1-score.***
+
+***Further, concerned about the name of the competition, features based on 'Market Basket Analysis' can be developed and that might improve the f1-score.***
 
 
