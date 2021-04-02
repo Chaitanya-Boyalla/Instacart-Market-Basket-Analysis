@@ -13,5 +13,8 @@
   Mean F1-score is the performance metric as per Kaggle competition but considering real world scenario f1-score on ‘1=will reorder’ is the performance metric on which models should be evaluated in particular. Further, recall of ‘will reorder’ can be observed.
   
 ***Go through 'Abstract.pdf' for detailed explanation of problem formulation, references and solving approach.***  
-    
+***Go through Kaggle Standings.pdf for kaggle scores of each model I built. Names of models in Kaggle Standings.pdf are self explanatory.***
+***Hyper-parameter tuning for all Machine learning models I built was done using only around 20% of data because of the limited computational capacity I have. If done using higher amount of data much better results can be achieved.***
+***Further, concerned about the name of the competetion, features based on 'Market Basket Analysis' can be developed and that might improve the f1-score.***
+
 
